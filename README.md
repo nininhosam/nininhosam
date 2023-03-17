@@ -25,9 +25,8 @@
 <img align="left" title="Visual Studio Code" width="32px" src="https://user-images.githubusercontent.com/76211125/219963290-44616aa7-6d2f-4426-861c-81429027d3dc.png"/>
 
 </br>
-</br>
-</br>
-</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nininhosam)
+## My stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nininhosam&bg_color=12001d&title_color=9a3ef6&text_color=e93ef6&icon_color=6ff63e&border_radius=25" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nininhosam&count_private=true&show_icons=true&bg_color=12001d&title_color=9a3ef6&text_color=e93ef6&icon_color=6ff63e&border_radius=25&line_height=33" align="left">
