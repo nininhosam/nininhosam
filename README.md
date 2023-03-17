@@ -30,3 +30,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nininhosam&bg_color=12001d&title_color=9a3ef6&text_color=e93ef6&icon_color=6ff63e&border_radius=25" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nininhosam&count_private=true&show_icons=true&bg_color=12001d&title_color=9a3ef6&text_color=e93ef6&icon_color=6ff63e&border_radius=25&line_height=33" align="left">
+</br></br></br></br></br></br></br></br></br></br></br>
+<img src="https://streak-stats.demolab.com?user=nininhosam&theme=violet-punch&border_radius=25" align="left">
