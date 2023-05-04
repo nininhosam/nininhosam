@@ -18,9 +18,12 @@
 
 ### :hammer_and_wrench: Tools
   <img align="left" title="Git" width="32px" src="https://user-images.githubusercontent.com/76211125/219963283-16fd4562-0186-4666-9fc9-51b0a71141fa.png"/>
-  <img align="left" title="GitHub" width="32px" src="https://user-images.githubusercontent.com/76211125/219963285-20c96ee3-22d9-48e9-bd8a-3e9153fce98f.png"/>
+  <img align="left" title="GitHub" width="32px" src="https://user-images.githubusercontent.com/76211125/227561896-a90cea71-7431-4908-ac8d-71fc02603eeb.png#gh-light-mode-only" />
+  <img align="left" title="GitHub" width = "32px" src="https://user-images.githubusercontent.com/76211125/227561942-1503fb74-eb8e-41d1-936e-bf22bc2d70eb.png#gh-dark-mode-only"/>
   <img align="left" title="MySQL" width="32px" src="https://user-images.githubusercontent.com/76211125/219963286-352e9491-b620-4ad0-a7ed-a7a3d53e2c48.png"/>
   <img align="left" title="Dbeaver" width="32px" src="https://user-images.githubusercontent.com/76211125/236158019-4624e97d-ee74-4b66-bb8c-1936ef85b8b9.png"/>
+  <img align="left" title="Bootstrap" height="32px" src="https://user-images.githubusercontent.com/76211125/227509792-60a17912-2bf2-4700-a23c-886a32bd8811.png"/>
+  <img align="left" title="Flask" width="32px" src="https://user-images.githubusercontent.com/76211125/227565311-a366f66f-78db-44b0-8616-54146e9d7e28.png"/>
   <img align="left" title="Node.js" width="32px" src="https://user-images.githubusercontent.com/76211125/219963288-af405c03-e9d7-4129-bea2-0d0091421b4c.png"/>
   <img align="left" title="npm" width="32px" src="https://user-images.githubusercontent.com/76211125/219963289-2cfedd63-5fb3-4c3a-9413-876886212b00.png"/>
   <img align="left" title="Visual Studio Code" width="32px" src="https://user-images.githubusercontent.com/76211125/219963290-44616aa7-6d2f-4426-861c-81429027d3dc.png"/>
