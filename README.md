@@ -13,6 +13,8 @@
   <img align="left" title="JavaScript" width="32px" src="https://user-images.githubusercontent.com/76211125/219962802-66165ad6-0869-47ca-8be3-9c64440f9dff.png"/>
   <img align="left" title="HTML5" width="32px" src="https://user-images.githubusercontent.com/76211125/219962801-6d631e42-f62c-4103-a587-14e3c2c4ce26.png"/>
   <img align="left" title="CSS3" width="32px" src="https://user-images.githubusercontent.com/76211125/219962798-9703e112-9028-4774-ae3e-0dacb0f31076.png"/>
+  <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652807-ff25c915-a906-4ef9-9699-2dca415ba7f8.png#gh-light-mode-only"/>
+  <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652822-eae0b6bb-ea9e-42e0-8f2e-7702e8b8cef8.png#gh-dark-mode-only"/>
 
 </br>
 
