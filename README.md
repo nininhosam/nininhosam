@@ -15,7 +15,7 @@
   <img align="left" title="CSS3" width="32px" src="https://user-images.githubusercontent.com/76211125/219962798-9703e112-9028-4774-ae3e-0dacb0f31076.png"/>
   <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652807-ff25c915-a906-4ef9-9699-2dca415ba7f8.png#gh-light-mode-only"/>
   <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652822-eae0b6bb-ea9e-42e0-8f2e-7702e8b8cef8.png#gh-dark-mode-only"/>
-
+  <img align="left" title="Java" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/4cb7e04b-376b-4416-a43e-356c9a7ff069"/>
 </br>
 
 ### :hammer_and_wrench: Tools
@@ -28,8 +28,11 @@
   <img align="left" title="Flask" width="32px" src="https://user-images.githubusercontent.com/76211125/227565311-a366f66f-78db-44b0-8616-54146e9d7e28.png"/>
   <img align="left" title="Node.js" width="32px" src="https://user-images.githubusercontent.com/76211125/219963288-af405c03-e9d7-4129-bea2-0d0091421b4c.png"/>
   <img align="left" title="npm" width="32px" src="https://user-images.githubusercontent.com/76211125/219963289-2cfedd63-5fb3-4c3a-9413-876886212b00.png"/>
+  <img align="left" title="JavaFx" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/5b22e9b0-5474-4366-8742-2b6545952951"/>
   <img align="left" title="Visual Studio Code" width="32px" src="https://user-images.githubusercontent.com/76211125/219963290-44616aa7-6d2f-4426-861c-81429027d3dc.png"/>
- 
+  <img align="left" title="NetBeans" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/d2712955-5efa-49ab-b339-5674cfba12db"/>
+  <img align="left" title="Eclipse" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/304ea6ed-81ef-45c4-90d8-2e79579b8bfb"/>
+  <img align="left" title="IntelliJ" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/f5bb87c4-7a01-4926-b6d7-f8b11e265c86"/>
 </br>
 
 ## My stats
