@@ -9,30 +9,20 @@
 
 ## What I've learned / What I'm learning
 ### :desktop_computer: Languages
-  <img align="left" title="Python" width="32px" src="https://user-images.githubusercontent.com/76211125/219962803-64f140c4-f6cf-4e9e-b05a-43db18579964.png"/>
-  <img align="left" title="JavaScript" width="32px" src="https://user-images.githubusercontent.com/76211125/219962802-66165ad6-0869-47ca-8be3-9c64440f9dff.png"/>
-  <img align="left" title="HTML5" width="32px" src="https://user-images.githubusercontent.com/76211125/219962801-6d631e42-f62c-4103-a587-14e3c2c4ce26.png"/>
-  <img align="left" title="CSS3" width="32px" src="https://user-images.githubusercontent.com/76211125/219962798-9703e112-9028-4774-ae3e-0dacb0f31076.png"/>
-  <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652807-ff25c915-a906-4ef9-9699-2dca415ba7f8.png#gh-light-mode-only"/>
-  <img align="left" title="SQL" width="32px" src="https://user-images.githubusercontent.com/76211125/236652822-eae0b6bb-ea9e-42e0-8f2e-7702e8b8cef8.png#gh-dark-mode-only"/>
-  <img align="left" title="Java" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/4cb7e04b-376b-4416-a43e-356c9a7ff069"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,python&perline=4">
+  </a>
 </br>
 
 ### :hammer_and_wrench: Tools
-  <img align="left" title="Git" width="32px" src="https://user-images.githubusercontent.com/76211125/219963283-16fd4562-0186-4666-9fc9-51b0a71141fa.png"/>
-  <img align="left" title="GitHub" width="32px" src="https://user-images.githubusercontent.com/76211125/227561896-a90cea71-7431-4908-ac8d-71fc02603eeb.png#gh-light-mode-only" />
-  <img align="left" title="GitHub" width = "32px" src="https://user-images.githubusercontent.com/76211125/227561942-1503fb74-eb8e-41d1-936e-bf22bc2d70eb.png#gh-dark-mode-only"/>
-  <img align="left" title="MySQL" width="32px" src="https://user-images.githubusercontent.com/76211125/219963286-352e9491-b620-4ad0-a7ed-a7a3d53e2c48.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nodejs,npm,flask,angular,gradle,git,idea,figma,mysql,vscode,visualstudio,notion,postman,vercel&perline=4">
+  </a>
+  <!---
+  Icons that don't yet exist on skillicons :(
   <img align="left" title="Dbeaver" width="32px" src="https://user-images.githubusercontent.com/76211125/236158019-4624e97d-ee74-4b66-bb8c-1936ef85b8b9.png"/>
-  <img align="left" title="Bootstrap" height="32px" src="https://user-images.githubusercontent.com/76211125/227509792-60a17912-2bf2-4700-a23c-886a32bd8811.png"/>
-  <img align="left" title="Flask" width="32px" src="https://user-images.githubusercontent.com/76211125/227565311-a366f66f-78db-44b0-8616-54146e9d7e28.png"/>
-  <img align="left" title="Node.js" width="32px" src="https://user-images.githubusercontent.com/76211125/219963288-af405c03-e9d7-4129-bea2-0d0091421b4c.png"/>
-  <img align="left" title="npm" width="32px" src="https://user-images.githubusercontent.com/76211125/219963289-2cfedd63-5fb3-4c3a-9413-876886212b00.png"/>
   <img align="left" title="JavaFx" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/5b22e9b0-5474-4366-8742-2b6545952951"/>
-  <img align="left" title="Visual Studio Code" width="32px" src="https://user-images.githubusercontent.com/76211125/219963290-44616aa7-6d2f-4426-861c-81429027d3dc.png"/>
-  <img align="left" title="NetBeans" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/d2712955-5efa-49ab-b339-5674cfba12db"/>
-  <img align="left" title="Eclipse" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/304ea6ed-81ef-45c4-90d8-2e79579b8bfb"/>
-  <img align="left" title="IntelliJ" width="32px" src="https://github.com/nininhosam/nininhosam/assets/76211125/f5bb87c4-7a01-4926-b6d7-f8b11e265c86"/>
+  -->
 </br>
 
 ## My stats
